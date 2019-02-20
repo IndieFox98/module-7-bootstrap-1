@@ -11,13 +11,17 @@
 </head>
 <body>
 <div class="container">
-    <section>
-        <h1>Evergreen</h1>
+    <section class="bg-danger text-white p-4">
+        <img src="img/200px-Clark_College_logo.png" class="bg-white d-block mx-auto mb-4" alt="Clark College logo">
+        <div class="alert alert-danger font-weight-bold text-center">WARNING: THERE'S AN IDIOT-A LOOSE!</div>
+        <h1 class="mt-4">Evergreen</h1>
         <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Voluptates at reiciendis expedita adipisci sint? Esse quas repellendus obcaecati dicta. Iusto voluptates dicta dolor omnis necessitatibus labore amet voluptatem distinctio repudiandae.</p>
-        <h2>Camas</h2>
+        <h2 class="h1">Camas</h2>
         <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eius enim, minus cumque asperiores libero consectetur. Praesentium sint itaque, eaque assumenda expedita totam dignissimos molestias sequi natus placeat, aliquid sapiente atque.</p>
-        <h3>Vanmcouver</h3>
-        <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Iusto sit ad, aspernatur autem temporibus et ipsam, consequatur excepturi delectus, quo ratione! Quam explicabo repudiandae commodi delectus saepe, adipisci laborum quaerat!</p>
+        <div class="m-5 p-5">
+            <h3>Vancouver</h3>
+            <p class="text-justify text-uppercase">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Iusto sit ad, aspernatur autem temporibus et ipsam, consequatur excepturi delectus, quo ratione! Quam explicabo repudiandae commodi delectus saepe, adipisci laborum quaerat!</p>
+        </div>
         <h4>Comsewogue</h4>
         <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quibusdam dolores eos quasi nostrum ducimus nam pariatur molestias consequuntur mollitia recusandae illo accusantium laboriosam debitis minus, quia, cum omnis. Quod, et!</p>
     </section>
